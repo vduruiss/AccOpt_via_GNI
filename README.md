@@ -71,7 +71,7 @@ It contains simple implementations of the optimization algorithms in MATLAB and 
 See the directory [`./Simple_MATLAB/`](Simple_MATLAB)
 
 A simple implementation of the ExpoSLC-RTL and PolySLC-RTL algorithms from 
-[**Practical Perspectives on Symplectic Accelerated Optimization.**](https://arxiv.org/abs/2207.11460) as MATLAB functions is given in
+[**Practical Perspectives on Symplectic Accelerated Optimization**](https://arxiv.org/abs/2207.11460) as MATLAB functions is given in
 ```
 	ExpoSLC_RTL.m     and     PolySLC_RTL.m
 ```
@@ -92,7 +92,7 @@ We also provide two simple MATLAB scripts to show how these optimizers can be us
 See the directory [`./Simple_Python/`](Simple_Python)
 
 A simple implementation of the ExpoSLC-RTL and PolySLC-RTL algorithms from 
-[**Practical Perspectives on Symplectic Accelerated Optimization.**](https://arxiv.org/abs/2207.11460) as Python functions is stored in 
+[**Practical Perspectives on Symplectic Accelerated Optimization**](https://arxiv.org/abs/2207.11460) as Python functions is stored in 
 ```
 	SLC_Optimizers.py
 ```
