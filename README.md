@@ -22,6 +22,8 @@ It contains simple implementations of the optimization algorithms in MATLAB and 
 
 *  [**Simple MATLAB Codes**](#simple-matlab-codes)
 
+*  [**Simple Julia Codes**](#simple-julia-codes)
+
 *  [**Simple Python Codes**](#simple-python-codes)
 
 *  [**PyTorch Codes**](#pytorch-codes)
@@ -80,6 +82,28 @@ We also provide two simple MATLAB scripts to show how these optimizers can be us
 ```
 	Expo_Script.m     and     Poly_Script.m
 ```
+
+
+
+<br /><br />
+
+<hr><hr>
+
+## Simple Julia Codes
+
+See the directory [`./Simple_Julia/`](Simple_Julia)
+
+A simple implementation of the ExpoSLC-RTL and PolySLC-RTL algorithms from 
+[**Practical Perspectives on Symplectic Accelerated Optimization**](https://arxiv.org/abs/2207.11460) as Julia functions is given in
+```
+	ExpoSLC_RTL.jl     and     PolySLC_RTL.jl
+```
+
+We also provide two simple Julia scripts to show how these optimizers can be used:
+```
+	Expo_Script.jl     and     Poly_Script.jl
+```
+
 
 
 <br /><br />
