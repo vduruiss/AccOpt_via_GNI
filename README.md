@@ -11,7 +11,7 @@ This repository provides the code for our paper
 Valentin Duruisseaux and Melvin Leok.
 *2022.*
 
-It contains simple implementations of the optimization algorithms in MATLAB and Python, and more sophisticated Python code implementations which allow the optimizers to be called conveniently within the TensorFlow and PyTorch frameworks.
+It contains simple implementations of the optimization algorithms in MATLAB, Python, and Julia, and more sophisticated Python code implementations which allow the optimizers to be called conveniently within the TensorFlow and PyTorch frameworks.
 
 
 <br />
