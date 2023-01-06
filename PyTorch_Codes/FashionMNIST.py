@@ -183,10 +183,11 @@ for t in range(epochs):
 
 plt.subplots(figsize=(15, 5))
 plt.subplot(1, 2, 1)
-plt.plot(ADAM_Losses,'black',label="ADAM",linewidth=2)
-plt.plot(SGD_Losses,'green',label="SGD",linewidth=2)
-plt.plot(eBrAVO_Losses,'blue',label="eBrAVO",linewidth=2)
-plt.plot(pBrAVO_Losses,'red',label="pBrAVO",linewidth=2)
+plt.plot(epochs*np.arange(1,ADAM_Losses.size+1)/ADAM_Losses.size,ADAM_Losses,'black',label="ADAM",linewidth=2)
+plt.plot(epochs*np.arange(1,SGD_Losses.size+1)/SGD_Losses.size,SGD_Losses,'green',label="SGD",linewidth=2)
+plt.plot(epochs*np.arange(1,eBrAVO_Losses.size+1)/eBrAVO_Losses.size,eBrAVO_Losses,'blue',label="eBrAVO",linewidth=2)
+plt.plot(epochs*np.arange(1,pBrAVO_Losses.size+1)/pBrAVO_Losses.size,pBrAVO_Losses,'red',label="pBrAVO",linewidth=2)
+plt.xlabel("epochs",fontsize=14)
 plt.ylabel("Loss",fontsize=14)
 plt.legend(fontsize=14)
 
