@@ -7,9 +7,11 @@
 
 This repository provides the code for our paper
 
-[**Practical Perspectives on Symplectic Accelerated Optimization.**](https://arxiv.org/abs/2207.11460)
+[**Practical Perspectives on Symplectic Accelerated Optimization.**](https://doi.org/10.1080/10556788.2023.2214837)
+<br />
 Valentin Duruisseaux and Melvin Leok.
-*2022.*
+<br />
+*Optimization Methods and Software*, 2023.
 
 It contains simple implementations of the optimization algorithms in MATLAB, Julia, and Python, and more sophisticated Python code implementations which allow the optimizers to be called conveniently within the TensorFlow and PyTorch frameworks.
 
