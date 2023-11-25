@@ -6,8 +6,9 @@ we learn the parameters of a Neural Network
 to obtain a model which fits the data points as well as possible
 
 More details can be found in
-    "Practical Perspectives on Symplectic Accelerated Optimization"
-    Authors: Valentin Duruisseaux and Melvin Leok. 2022.
+     "Practical Perspectives on Symplectic Accelerated Optimization"
+     Optimization Methods and Software, Vol.38, Issue 6, pages 1230-1268, 2023.
+     Authors: Valentin Duruisseaux and Melvin Leok. 
 
 Usage:
 
