@@ -2,7 +2,8 @@
 '''
  This is a simple implementation of the SLC-RTL algorithms from
  "Practical Perspectives on Symplectic Accelerated Optimization"
- Authors: Valentin Duruisseaux and Melvin Leok. 2022.
+ Optimization Methods and Software, Vol.38, Issue 6, pages 1230-1268, 2023.
+ Authors: Valentin Duruisseaux and Melvin Leok. 
 '''
 
 import numpy as np
