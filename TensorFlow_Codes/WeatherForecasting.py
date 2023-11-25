@@ -6,8 +6,9 @@ We test the eBrAVO and pBrAVO algorithms for timeseries forecasting for weather 
 We use a Long Short-Term Memory (LSTM) model (with 5153 parameters).
 
 More details can be found in
-    "Practical Perspectives on Symplectic Accelerated Optimization"
-    Authors: Valentin Duruisseaux and Melvin Leok. 2022.
+     "Practical Perspectives on Symplectic Accelerated Optimization"
+     Optimization Methods and Software, Vol.38, Issue 6, pages 1230-1268, 2023.
+     Authors: Valentin Duruisseaux and Melvin Leok. 
 
 Usage:
 
