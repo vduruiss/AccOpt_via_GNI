@@ -11,7 +11,9 @@ This repository provides the code for our paper
 <br />
 Valentin Duruisseaux and Melvin Leok.
 <br />
-*Optimization Methods and Software*, 2023.
+*Optimization Methods and Software*, Vol.38, Issue 6, pages 1230-1268, 2023.
+
+
 
 It contains simple implementations of the optimization algorithms in MATLAB, Julia, and Python, and more sophisticated Python code implementations which allow the optimizers to be called conveniently within the TensorFlow and PyTorch frameworks.
 
@@ -318,11 +320,16 @@ Usage:
 If you use this code in your research, please consider citing:
 
 ```bibTeX
-@article{Duruisseaux2022Practical,
-  title = {Practical Perspectives on Symplectic Accelerated Optimization},
-  author = {Duruisseaux, Valentin and Leok, Melvin},
-  year={2022},
-  url={https://arxiv.org/abs/2207.11460}
+@Article{Duruisseaux2023Practical,
+	author        = {V. Duruisseaux and M. Leok},
+	title         = {Practical Perspectives on Symplectic Accelerated Optimization},
+	year  = {2023},
+	volume = {38},
+	number = {6},
+	pages = {1230-1268},
+	publisher = {Taylor & Francis},
+	journal = {Optimization Methods and Software},
+	url={https://doi.org/10.1080/10556788.2023.2214837},
 }
 ```
 
